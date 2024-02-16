@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:31:20</sys_created_on>
+        <sys_id>423df85393500210a83133ddfaba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_858887_workout_progression.x_858887_workout.admin</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_security_acl display_value="x_858887_workout_progression">44bb38df93100210a83133ddfaba1006</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_423df85393500210a83133ddfaba10f2</sys_update_name>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:31:20</sys_updated_on>
+        <sys_user_role display_value="x_858887_workout.admin" name="x_858887_workout.admin">fb6838d793100210a83133ddfaba108e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

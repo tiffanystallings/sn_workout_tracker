@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_858887_workout.progression_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>progression_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:24:24</sys_created_on>
+        <sys_id>b3ab74df93100210a83133ddfaba10b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_858887_workout.progression_user</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_update_name>sys_user_role_b3ab74df93100210a83133ddfaba10b2</sys_update_name>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:24:24</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</application>
+        <file_path/>
+        <instance_id>b92d3bafdb0eb954ebdd2a5913961964</instance_id>
+        <instance_name>dev197948</instance_name>
+        <name>sys_user_role_b3ab74df93100210a83133ddfaba10b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_858887_workout.progression_user</name><scoped_admin>false</scoped_admin><suffix>progression_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>tiffanystallings</sys_created_by><sys_created_on>2024-02-16 21:24:24</sys_created_on><sys_id>b3ab74df93100210a83133ddfaba10b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_858887_workout.progression_user</sys_name><sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package><sys_policy/><sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope><sys_update_name>sys_user_role_b3ab74df93100210a83133ddfaba10b2</sys_update_name><sys_updated_by>tiffanystallings</sys_updated_by><sys_updated_on>2024-02-16 21:24:24</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-498521382</payload_hash>
+        <record_name>x_858887_workout.progression_user</record_name>
+        <reverted_from/>
+        <source>470b789f93100210a83133ddfaba10e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:24:24</sys_created_on>
+        <sys_id>f7ab74df93100210a83133ddfaba10b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db3ce66730000001</sys_recorded_at>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:24:24</sys_updated_on>
+        <type>Role</type>
+        <update_guid>fbab74dfad1002105db190c03806beb4</update_guid>
+        <update_guid_history>fbab74dfad1002105db190c03806beb4:-498521382</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_858887_workout.progression_user">4c7df09393500210a83133ddfaba10a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:32:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>1feca8496b8c4ad7934f4056f6d665b9</sys_id>
+        <sys_metadata>b3ab74df93100210a83133ddfaba10b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_858887_workout.progression_user</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_scope_delete display_value="">197c7002c92e43909313df1e65f0f031</sys_scope_delete>
+        <sys_update_name>sys_user_role_b3ab74df93100210a83133ddfaba10b2</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b3ab74df93100210a83133ddfaba10b2">f7ab74df93100210a83133ddfaba10b5</sys_update_version>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:32:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

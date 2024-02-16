@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="d52b3c9f93100210a83133ddfaba105c" extends="sys_metadata" label="Exercise" max_length="40" name="x_858887_workout_exercise" type="collection"/>
+</database>
