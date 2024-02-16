@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_858887_workout_exercise">
+    <x_858887_workout_exercise action="INSERT_OR_UPDATE">
+        <name>Bodyweight Rows</name>
+        <sys_class_name>x_858887_workout_exercise</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 22:30:50</sys_created_on>
+        <sys_id>caba455793900210a83133ddfaba10b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bodyweight Rows</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_update_name>x_858887_workout_exercise_caba455793900210a83133ddfaba10b0</sys_update_name>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 22:30:50</sys_updated_on>
+        <type>strength</type>
+    </x_858887_workout_exercise>
+</record_update>

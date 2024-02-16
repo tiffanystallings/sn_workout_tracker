@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Progression">0cbbf4df93100210a83133ddfaba10fa</application>
+        <filter/>
+        <name>Progressions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_858887_workout.progression_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:24:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0bbf4df93100210a83133ddfaba10fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Progressions</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_update_name>sys_ui_module_c0bbf4df93100210a83133ddfaba10fd</sys_update_name>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:24:25</sys_updated_on>
+        <table>x_858887_workout_progression</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</application>
+        <file_path/>
+        <instance_id>b92d3bafdb0eb954ebdd2a5913961964</instance_id>
+        <instance_name>dev197948</instance_name>
+        <name>sys_ui_module_c0bbf4df93100210a83133ddfaba10fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Progression">0cbbf4df93100210a83133ddfaba10fa</application><filter/><name>Progressions</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_858887_workout.progression_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>tiffanystallings</sys_created_by><sys_created_on>2024-02-16 21:24:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c0bbf4df93100210a83133ddfaba10fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Progressions</sys_name><sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package><sys_policy/><sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope><sys_update_name>sys_ui_module_c0bbf4df93100210a83133ddfaba10fd</sys_update_name><sys_updated_by>tiffanystallings</sys_updated_by><sys_updated_on>2024-02-16 21:24:25</sys_updated_on><table>x_858887_workout_progression</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1937163148</payload_hash>
+        <record_name>Progressions</record_name>
+        <reverted_from/>
+        <source>470b789f93100210a83133ddfaba10e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:24:25</sys_created_on>
+        <sys_id>04bbf4df93100210a83133ddfaba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db3ce67420000001</sys_recorded_at>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:24:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>08bbf4dfb3100210c0c9e56d6bb76efe</update_guid>
+        <update_guid_history>08bbf4dfb3100210c0c9e56d6bb76efe:1937163148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:47:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>2c8f33398eed429eaf26afe5b8960b71</sys_id>
+        <sys_metadata>c0bbf4df93100210a83133ddfaba10fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Progressions</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_scope_delete display_value="">197c7002c92e43909313df1e65f0f031</sys_scope_delete>
+        <sys_update_name>sys_ui_module_c0bbf4df93100210a83133ddfaba10fd</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_c0bbf4df93100210a83133ddfaba10fd">04bbf4df93100210a83133ddfaba10ff</sys_update_version>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:47:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

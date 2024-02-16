@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Exercise</name>
+        <order/>
+        <roles>x_858887_workout.exercise_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:23:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>098bf0df93100210a83133ddfaba1070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exercise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_update_name>sys_ui_application_098bf0df93100210a83133ddfaba1070</sys_update_name>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:23:40</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</application>
+        <file_path/>
+        <instance_id>b92d3bafdb0eb954ebdd2a5913961964</instance_id>
+        <instance_name>dev197948</instance_name>
+        <name>sys_ui_application_098bf0df93100210a83133ddfaba1070</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Exercise</name><order/><roles>x_858887_workout.exercise_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>tiffanystallings</sys_created_by><sys_created_on>2024-02-16 21:23:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>098bf0df93100210a83133ddfaba1070</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Exercise</sys_name><sys_overrides/><sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package><sys_policy/><sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope><sys_update_name>sys_ui_application_098bf0df93100210a83133ddfaba1070</sys_update_name><sys_updated_by>tiffanystallings</sys_updated_by><sys_updated_on>2024-02-16 21:23:40</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>1910495523</payload_hash>
+        <record_name>Exercise</record_name>
+        <reverted_from/>
+        <source>470b789f93100210a83133ddfaba10e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:23:40</sys_created_on>
+        <sys_id>098bf0df93100210a83133ddfaba1073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db3cdb7c00000001</sys_recorded_at>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:23:40</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c98bf0df77100210044a51a1fee87772</update_guid>
+        <update_guid_history>c98bf0df77100210044a51a1fee87772:1910495523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tiffanystallings</sys_created_by>
+        <sys_created_on>2024-02-16 21:47:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>180e5345be7e4a9c9ef63a59822fe7c4</sys_id>
+        <sys_metadata>098bf0df93100210a83133ddfaba1070</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exercise</sys_name>
+        <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
+        <sys_scope_delete display_value="">197c7002c92e43909313df1e65f0f031</sys_scope_delete>
+        <sys_update_name>sys_ui_application_098bf0df93100210a83133ddfaba1070</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_098bf0df93100210a83133ddfaba1070">098bf0df93100210a83133ddfaba1073</sys_update_version>
+        <sys_updated_by>tiffanystallings</sys_updated_by>
+        <sys_updated_on>2024-02-16 21:47:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

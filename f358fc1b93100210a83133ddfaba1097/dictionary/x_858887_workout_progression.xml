@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="099b34df93100210a83133ddfaba10cf" label="Progression" max_length="40" name="x_858887_workout_progression" type="collection"/>
+    <element db_object_id="099b34df93100210a83133ddfaba10cf" label="Progression" max_length="40" name="x_858887_workout_progression" type="collection">
+        <element label="Exercise" mandatory="true" max_length="32" name="exercise" reference="x_858887_workout_exercise" type="reference"/>
+        <element display="true" label="Name" mandatory="true" max_length="255" name="name" type="string"/>
+        <index name="index">
+            <element name="exercise"/>
+        </index>
+    </element>
 </database>

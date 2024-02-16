@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c29305db93500210a83133ddfaba10cc" label="Execution" max_length="40" name="x_858887_workout_execution" type="collection">
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element display="true" label="Exercise" mandatory="true" max_length="32" name="exercise" reference="x_858887_workout_exercise" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Progression" max_length="32" name="progression" reference="x_858887_workout_progression" type="reference"/>
+        <element label="Reps" max_length="40" name="reps" type="integer"/>
+        <element label="Sets" max_length="40" name="sets" type="integer"/>
+        <element label="Static" max_length="40" name="static" type="boolean"/>
+        <element label="Weight" max_length="40" name="weight" type="integer"/>
+        <element label="Weighted" max_length="40" name="weighted" type="boolean"/>
+        <element choice="3" label="Unit" max_length="40" name="weight_unit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Kilogram(s)" value="kgs"/>
+                <element inactive_on_update="false" label="Pound(s)" value="lbs"/>
+            </choice>
+        </element>
+        <element label="Workout" mandatory="true" max_length="32" name="workout" reference="x_858887_workout_workout" type="reference"/>
+        <index name="index">
+            <element name="exercise"/>
+        </index>
+        <index name="index2">
+            <element name="progression"/>
+        </index>
+        <index name="index3">
+            <element name="workout"/>
+        </index>
+    </element>
+</database>

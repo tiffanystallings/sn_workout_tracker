@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" db_object_id="d52b3c9f93100210a83133ddfaba105c" extends="sys_metadata" label="Exercise" max_length="40" name="x_858887_workout_exercise" type="collection"/>
+    <element attributes="update_synch=true" db_object_id="d52b3c9f93100210a83133ddfaba105c" extends="sys_metadata" label="Exercise" max_length="40" name="x_858887_workout_exercise" type="collection">
+        <element display="true" label="Name" mandatory="true" max_length="255" name="name" type="string"/>
+        <element choice="3" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cardio" value="cardio"/>
+                <element inactive_on_update="false" label="Strength" value="strength"/>
+                <element inactive_on_update="false" label="Yoga/Stretch" value="stretch"/>
+            </choice>
+        </element>
+    </element>
 </database>
