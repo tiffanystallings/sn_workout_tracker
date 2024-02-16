@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dff8bcdb93100210a83133ddfaba108d" extends="task" label="Workout" max_length="40" name="x_858887_workout_workout" type="collection"/>
+</database>
