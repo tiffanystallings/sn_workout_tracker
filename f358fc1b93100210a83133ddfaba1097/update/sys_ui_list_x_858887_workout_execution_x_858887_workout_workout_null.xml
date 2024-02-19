@@ -3,92 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>9ad8099393900210a83133ddfaba10ea</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>5cd4674493200210a83133ddfaba108d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>exercise</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>12d8099393900210a83133ddfaba10eb</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>dcd4674493200210a83133ddfaba108d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>progression</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>92d8099393900210a83133ddfaba10eb</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>50d4674493200210a83133ddfaba108e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sets</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>16d8099393900210a83133ddfaba10eb</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>d0d4674493200210a83133ddfaba108e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>reps</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>96d8099393900210a83133ddfaba10eb</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>54d4674493200210a83133ddfaba108e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>duration</element>
-            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">5ad8099393900210a83133ddfaba10e9</list_id>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
-            <sys_id>1ad8099393900210a83133ddfaba10eb</sys_id>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>1cd4ef4493200210a83133ddfaba10ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="x_858887_workout_execution" element="NULL" name="x_858887_workout_execution" parent="x_858887_workout_workout" relationship="NULL" sys_domain="global" view="Default view">10d4674493200210a83133ddfaba108d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>tiffanystallings</sys_created_by>
+            <sys_created_on>2024-02-19 17:38:48</sys_created_on>
+            <sys_id>9cd4ef4493200210a83133ddfaba10ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tiffanystallings</sys_updated_by>
+            <sys_updated_on>2024-02-19 17:38:48</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -102,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:21:55</sys_created_on>
+            <sys_created_on>2024-02-19 17:38:47</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5ad8099393900210a83133ddfaba10e9</sys_id>
+            <sys_id>10d4674493200210a83133ddfaba108d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_858887_workout_execution</sys_name>
             <sys_package display_value="Workout Tracker" source="x_858887_workout">f358fc1b93100210a83133ddfaba1097</sys_package>
@@ -113,7 +128,7 @@
             <sys_scope display_value="Workout Tracker">f358fc1b93100210a83133ddfaba1097</sys_scope>
             <sys_update_name>sys_ui_list_x_858887_workout_execution_x_858887_workout_workout_null</sys_update_name>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:21:55</sys_updated_on>
+            <sys_updated_on>2024-02-19 17:38:47</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

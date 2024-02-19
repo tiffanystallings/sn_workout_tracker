@@ -3,6 +3,7 @@
         <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
         <element display="true" label="Exercise" mandatory="true" max_length="32" name="exercise" reference="x_858887_workout_exercise" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
         <element label="Progression" max_length="32" name="progression" reference="x_858887_workout_progression" type="reference"/>
         <element label="Reps" max_length="40" name="reps" type="integer"/>
         <element label="Sets" max_length="40" name="sets" type="integer"/>

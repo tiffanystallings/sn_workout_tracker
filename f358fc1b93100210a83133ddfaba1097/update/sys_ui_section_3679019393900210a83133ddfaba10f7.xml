@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>cda9091793900210a83133ddfaba10b9</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>2a67b7cc93600210a83133ddfaba1067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>45a9091793900210a83133ddfaba10ba</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>a267b7cc93600210a83133ddfaba1068</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>workout</element>
             <position>2</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>c9a9091793900210a83133ddfaba10ba</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>ae673bcc93600210a83133ddfaba1072</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>exercise</element>
             <position>3</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>41a9091793900210a83133ddfaba10bb</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>26673bcc93600210a83133ddfaba1073</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,139 +60,153 @@
             <element>progression</element>
             <position>4</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>c5a9091793900210a83133ddfaba10bb</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>aa673bcc93600210a83133ddfaba1073</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>5</position>
+            <sys_created_by>tiffanystallings</sys_created_by>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>22673bcc93600210a83133ddfaba1074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
+            <sys_updated_by>tiffanystallings</sys_updated_by>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>4da9091793900210a83133ddfaba10bb</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>a6673bcc93600210a83133ddfaba1074</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>duration</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>c1a9091793900210a83133ddfaba10bc</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>2e673bcc93600210a83133ddfaba1074</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sets</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>49a9091793900210a83133ddfaba10bc</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>a2673bcc93600210a83133ddfaba1075</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reps</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>cda9091793900210a83133ddfaba10bc</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>2a673bcc93600210a83133ddfaba1075</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>static</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>45a9091793900210a83133ddfaba10bd</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>ae673bcc93600210a83133ddfaba1075</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>weighted</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>c9a9091793900210a83133ddfaba10bd</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>26673bcc93600210a83133ddfaba1076</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>weight</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>41a9091793900210a83133ddfaba10be</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>aa673bcc93600210a83133ddfaba1076</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>weight_unit</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>c5a9091793900210a83133ddfaba10be</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>22673bcc93600210a83133ddfaba1077</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:25:22</sys_created_on>
-            <sys_id>4da9091793900210a83133ddfaba10be</sys_id>
+            <sys_created_on>2024-02-19 19:00:03</sys_created_on>
+            <sys_id>a6673bcc93600210a83133ddfaba1077</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_execution" sys_domain="global" view="Default view">3679019393900210a83133ddfaba10f7</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:25:22</sys_updated_on>
+            <sys_updated_on>2024-02-19 19:00:03</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

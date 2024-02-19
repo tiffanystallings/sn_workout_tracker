@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="dff8bcdb93100210a83133ddfaba108d" extends="task" label="Workout" max_length="40" name="x_858887_workout_workout" type="collection">
+    <element attributes="live_feed=false" db_object_id="dff8bcdb93100210a83133ddfaba108d" extends="task" label="Workout" max_length="40" name="x_858887_workout_workout" type="collection">
         <element label="Completed" max_length="40" name="completed" type="glide_date_time"/>
     </element>
 </database>

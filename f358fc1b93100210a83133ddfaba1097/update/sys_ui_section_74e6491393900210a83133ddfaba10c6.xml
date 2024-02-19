@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:23:56</sys_created_on>
-            <sys_id>fb49c5d393900210a83133ddfaba1049</sys_id>
+            <sys_created_on>2024-02-19 18:42:44</sys_created_on>
+            <sys_id>0d73b74893600210a83133ddfaba1034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_workout" sys_domain="global" view="Default view">74e6491393900210a83133ddfaba10c6</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:23:56</sys_updated_on>
+            <sys_updated_on>2024-02-19 18:42:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:23:56</sys_created_on>
-            <sys_id>7349c5d393900210a83133ddfaba104a</sys_id>
+            <sys_created_on>2024-02-19 18:42:44</sys_created_on>
+            <sys_id>8573b74893600210a83133ddfaba1035</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_workout" sys_domain="global" view="Default view">74e6491393900210a83133ddfaba10c6</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:23:56</sys_updated_on>
+            <sys_updated_on>2024-02-19 18:42:44</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>completed</element>
             <position>2</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:23:56</sys_created_on>
-            <sys_id>f749c5d393900210a83133ddfaba104a</sys_id>
+            <sys_created_on>2024-02-19 18:42:44</sys_created_on>
+            <sys_id>0d73b74893600210a83133ddfaba1035</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_workout" sys_domain="global" view="Default view">74e6491393900210a83133ddfaba10c6</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:23:56</sys_updated_on>
+            <sys_updated_on>2024-02-19 18:42:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>tiffanystallings</sys_created_by>
-            <sys_created_on>2024-02-16 22:23:56</sys_created_on>
-            <sys_id>7f49c5d393900210a83133ddfaba104a</sys_id>
+            <sys_created_on>2024-02-19 18:42:44</sys_created_on>
+            <sys_id>4973f38893600210a83133ddfaba1079</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_858887_workout_workout" sys_domain="global" view="Default view">74e6491393900210a83133ddfaba10c6</sys_ui_section>
             <sys_updated_by>tiffanystallings</sys_updated_by>
-            <sys_updated_on>2024-02-16 22:23:56</sys_updated_on>
+            <sys_updated_on>2024-02-19 18:42:44</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
